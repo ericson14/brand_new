@@ -1,0 +1,12 @@
+tixc:
+  url: "https://8.210.206.86:10820"
+  token : "0dL1wi7ytx7xwSHq/bxz+A=="
+  upload_interval : 300
+  source : ["TID", "VT", "OTX", "微步"]
+  db_name: "saas_intelligence"
+  intelligence_index: "sia_saas_intelligence"
+  subdomain_index: "sia_saas_subdomain"
+  pe_info_index: "sia_saas_pe_info"
+  rdns_index: "sia_saas_rdns"
+  db_statistics: "statistical_intelligence"
+  
